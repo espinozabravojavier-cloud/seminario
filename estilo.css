@@ -1,0 +1,33 @@
+/* Reset de márgenes y paddings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo general para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 20px;
+}
+
+/* Estilo para el encabezado */
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Estilo para el contenido principal */
+main {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Estilo para el pie de página */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+}
