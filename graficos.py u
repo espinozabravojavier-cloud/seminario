@@ -1,0 +1,17 @@
+#Instalacion de matplotilb
+pip install matplotlib
+
+#importamos matplotlib
+import matplotlib.pyplot as plt
+
+#graficos de linea
+
+x = [1,2,3,4]
+y= [10,20,30,40]
+
+#crear graficos
+plt.plot(x,y)
+
+#mostrar el grafico
+
+plt.show()
